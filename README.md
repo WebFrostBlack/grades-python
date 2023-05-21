@@ -13,4 +13,4 @@ Follow these steps to download and install the required files :
    pip install sys json os
   _Make sure you are in the correct directory where the requirements.txt file is located_
   
-  3. Once the dependencies are installed, run the __`launch.bat`__ file to launch the application.
+  3. Once the dependencies are installed, run the __`launch.bat`__ file to launch the application and be Happy 🥰 !
