@@ -1,4 +1,4 @@
-## FROSTBLACK - Grades Python
+## ©FROSTBLACK - Grades Python
 
 ### Installation instructions
 ==============================================================
